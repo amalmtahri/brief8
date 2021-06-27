@@ -1,0 +1,65 @@
+<wpml-config>
+	<admin-texts>
+		<key name="xoo_aff_easy_login_woocommerce_fields">
+	
+<key name="xoo_el_reg_username">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_email">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_uv_reg_phone_code">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo-uv-reg-phone">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_fname">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_lname">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_pass">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_pass_again">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_el_reg_terms">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+<key name="xoo_aff_text_rj4nr">
+<key name="settings">
+<key name="placeholder"/>
+<key name="label"/>
+</key>
+</key>
+</key></admin-texts></wpml-config>
